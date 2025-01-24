@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @shubhendra8113!
+# 👋 Hi, I'm Shubhendra Singh
 
 - **👀 Fascinations:** 
   - Data analytics
@@ -12,10 +12,11 @@
   - Innovative solutions
 
 - **📫 Reach Me At:** 
-  - er.singhshubhendra@outlook.in
+  - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:er.singhshubhendra@outlook.in)
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shubhendra-singh-a774a8348/)
 
 - **😄 Pronouns:** 
-  - [Your pronouns]
+  - He/Him
 
 - **⚡ Fun Fact:** 
   - I can spend hours analyzing a single dataset and still find new patterns!
