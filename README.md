@@ -13,7 +13,7 @@
 
 - **📫 Reach Me At:** 
   - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:er.singhshubhendra@outlook.in)
-  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shubhendra-singh-a774a8348/)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shubhendra-singh-a774a8348/)
 
 - **😄 Pronouns:** 
   - He/Him
